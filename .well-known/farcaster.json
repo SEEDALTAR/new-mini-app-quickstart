@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzMTc5NDksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3OTRiOWQ3QkQ3YjhjZTlkMTgzN2M4MDU4NGQ0OTg1MTQyRDM3N0U4IiwiaWF0IjoxNzM0NjU0NTM2fQ",
+    "payload": "eyJkb21haW4iOiJzZWVkYWx0YXIuY29tIn0",
+    "signature": "xQ3+CE4TFgPAAckbsS5xpePOSkBxVTzQMPEw/BSHcRP2CnjFYv65b1aNaly/0JUEZXSHNcChFl4mkeUyKKdVxs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://seedaltar.com/icon.png",
+    "homeUrl": "https://seedaltar.com",
+    "imageUrl": "https://seedaltar.com/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://seedaltar.com/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://seedaltar.com/api/webhook"
+  }
+}
